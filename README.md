@@ -39,12 +39,12 @@ L'application est découpée en 3 fichiers principaux pour séparer l'interface 
 
 ---
 
-# I Utilisation de l'application
-
+#  Utilisation de l'application
+## Etape I : 
 ## a) Télecharger le fichier TrieurFichiers.exe
 ## b) Lancer TrieurFichiers.exe avec un double clic
 
-## II. Fonctionnement de l'Application (Pas à Pas)
+## Etape II. Fonctionnement de l'Application (Pas à Pas)
 
 Voici ce qui se déroule lorsque vous utilisez l'application :
 
